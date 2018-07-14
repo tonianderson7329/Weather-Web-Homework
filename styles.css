@@ -131,8 +131,9 @@ padding: 12%
     flex-direction: column;
   }
 
-  .navbar-default{
+  nav{
 
     background-color:lightseagreen"
   }
+	
 }
