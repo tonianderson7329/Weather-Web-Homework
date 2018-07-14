@@ -43,6 +43,11 @@ nav {
 .col-md-4 sidebar{
   background-color: #f1f1f1
 }
+
+#img_text {
+	float: left;
+}
+
 #summary-column {
   text-align: left;
   color: lightseagreen;
