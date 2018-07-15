@@ -24,7 +24,7 @@ nav {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  position : absolute;
+  position : fixed;
   height : 40px;
   bottom: 0px;
   width: 100%;
@@ -49,13 +49,6 @@ nav {
 }
 
 #summary-column {
-  text-align: center;
-  color: lightseagreen;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-padding: 10%
-}
-
-#data-column {
   text-align: center;
   color: lightseagreen;
   font-family: Georgia, 'Times New Roman', Times, serif;
