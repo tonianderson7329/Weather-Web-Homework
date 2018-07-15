@@ -54,6 +54,15 @@ nav {
   font-family: Georgia, 'Times New Roman', Times, serif;
 padding: 10%
 }
+
+#data-column {
+	text-align: left;
+ 	color: lightseagreen;
+  	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding: 10%
+}
+
+
 #compare_title {
   text-align: left;
   color: lightseagreen;
