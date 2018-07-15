@@ -56,10 +56,10 @@ padding: 10%
 }
 
 #data-column {
-	text-align: left;
- 	color: lightseagreen;
-  	font-family: Georgia, 'Times New Roman', Times, serif;
-	padding: 10%
+  text-align: center;
+  color: lightseagreen;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 10%
 }
 
 
